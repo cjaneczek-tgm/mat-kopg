@@ -1,0 +1,31 @@
+Sensorenarten
+Welche im Projekt verwendet wurden
+Welche Sensoren in der Industrie verwendet werden
+
+Augmented Reality
+Einsatz im Projekt
+Einsatz in der Realität
+
+
+Thema auf ein Tafelbild darstellen:
+Kompletten Inhalt der Ausarbeitung graphisch auf einem A4-Blatt darstellen
+
+
+Thema zur Ausarbeitung:
+
+Evaluation d. Sensoren + Konzept + Augmented Reality
+------------------------------------------------------------------
+
+Wer ist P.Hoppen?
+Unterschied Genauigkeit & Fehlerwahrscheinlichkeit erläutern
+Lineares vs Nicht-lineares Potentiometer erläutern
+Augmented Reality im Projekt - Darstellung der Servomotorenwerte an der jeweiligen Position
+Inwiefern hilft Augmented Reality im Bereich der Industrieroboter? 
+Vorzeichnen des bestimmten Wegs des Roboters, Welche Schritte er macht, was sein Ziel ist, wie er sich bewegt, wo könnten sich Probleme begeben, evtl. Arbeitsbereich des Roboters einzeichnen um Sicherheit zu gewährleisten
+Zusammenfassende Seite: Welche Sensoren wurden wofür verwendet? 
+Ende Erklärung warum Servomotoren verwendet wurden...
+
+
+
+VOGT - Big O Notation
+	   Team Sort
